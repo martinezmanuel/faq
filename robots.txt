@@ -1,0 +1,4 @@
+# Fichier Robots.txt
+User-Agent: *
+Disallow:config.php
+Disallow:process.php
